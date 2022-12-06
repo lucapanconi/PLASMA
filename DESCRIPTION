@@ -12,3 +12,4 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 Imports: ggplot2, distances, pracma, spatstat, mclust, RSMLM, partitions, Rfast
 Remotes: git::https://github.com/JeremyPike/RSMLM.git
+LazyData: true
