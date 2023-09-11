@@ -150,7 +150,7 @@ getari <- function(points, search_radius, persistence){
 }
 
 #ARIA.
-ARIA <- function(){
+aria <- function(){
   return(NULL)
 }
 
